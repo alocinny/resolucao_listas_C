@@ -1,3 +1,5 @@
+/*Codifique uma calculadora, com suas quatro funções básicas ( + , - , * , / ).*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
